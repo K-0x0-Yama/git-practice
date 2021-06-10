@@ -4,4 +4,4 @@ g git-practice
 new featureブランチで変更
 conflictブランチに変更(conflict発生)
 github上で更新
-rebase-practiceブランチで変更(rebaseブランチ用)
+mainブランチで変更コンフリクト用(mainブランチ用)
